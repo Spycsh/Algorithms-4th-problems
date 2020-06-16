@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b94af4-9cd4-40d7-863e-1220120f0759" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms4th.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Searching.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Searching/PriorityQueues/MaxPQ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Searching/binarySearchTrees/BST$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Searching/binarySearchTrees/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/searching.iml" beforeDir="false" afterPath="$PROJECT_DIR$/searching.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algs4.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ACM/algs4.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -65,33 +59,33 @@
     <configuration />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592312140874">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592313300017">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1592312140874" />
-    <state x="323" y="81" key="FileChooserDialogImpl" timestamp="1592312139006">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1592313300017" />
+    <state x="323" y="81" key="FileChooserDialogImpl" timestamp="1592313371041">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="323" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1592312139006" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1592312917447">
+    <state x="323" y="81" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1592313371041" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1592313471756">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592312917447" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1592312917446">
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1592313471756" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1592313471756">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592312917446" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1592312917446">
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1592313471756" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1592313471756">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592312917446" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1592312917446">
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1592313471756" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1592313471756">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592312917446" />
-    <state x="121" y="0" key="SettingsEditor" timestamp="1592312108222">
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1592313471756" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1592313456487">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1592312108222" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1592313456487" />
   </component>
 </project>
